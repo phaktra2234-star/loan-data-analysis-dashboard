@@ -83,6 +83,6 @@ loan-data-analysis-dashboard/
 
 ## Author
 
-Heang Denis
+CHEA Sophaktra
 
 Data Science Student | Interested in Data Analysis, Power BI, and Data Visualization
